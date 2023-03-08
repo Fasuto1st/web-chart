@@ -1,2 +1,2 @@
 #Practice create chart <br>
-use apexcharts and get data from api
+use apexcharts and get data from melivecode api
